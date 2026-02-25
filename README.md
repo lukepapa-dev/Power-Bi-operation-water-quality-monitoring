@@ -121,7 +121,7 @@ A small number of sites account for a disproportionate number of compliance brea
 
 ## Dashboard Screenshot
 
-![Dashboard](../powerbi/screenshots/dashboard.png)
+![Dashboard](powerbi/screenshots/dashboard.png)
 
 ---
 
