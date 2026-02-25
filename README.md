@@ -163,6 +163,6 @@ Data visualization and storytelling
 ---
 
 ## Author
-
 Luke Papaevangeliou  
-Data Analyst Portfolio Project
+Project Type: Operational Data Analysis  
+Dataset: Real-world infrastructure monitoring data (anonymized)
